@@ -69,12 +69,12 @@ The project is deployed on Railway.app with a connected PostgreSQL database.
 
 ### Live API URL
 
-- Base URL: at:`https://your-railway-app-url.up.railway.app`
+- Base URL:[App on Railway](https://your-railway-app-url.up.railway.app)
 
 ### Swagger UI
 
 - Documentation and testing available at:  
-  at:`https://your-railway-app-url.up.railway.app/api`
+  [Swaggery](https://your-railway-app-url.up.railway.app/api)
 
 ## Author
 
