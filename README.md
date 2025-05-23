@@ -83,7 +83,7 @@ Kamil Sulgut
 
 ## Contact
 
-Questions? Reach out at: kamil@gmail.com
+Questions? Reach out at: kamilsulgut@gmail.com
 
 ---
 
